@@ -337,7 +337,7 @@ const query3 = {
 const options1 = {
   url: 'https://staging-api.bemarke.com.br/graphql',
   headers: {
-    Authorization: 'bearer 043FC6B3-44A3-4701-A498-DB3EA0205DF0',
+    Authorization: 'bearer XXX',
     'Content-Type': 'application/json',
   },
   json: query,
