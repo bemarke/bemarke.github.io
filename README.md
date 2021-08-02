@@ -13,7 +13,7 @@ Você encontratá a extensão aqui
 Depois que a extensão for adicionada ao Chrome, voce poderá acessa-la pelo menu `Apollo`.
 ![img.png](https://raw.githubusercontent.com/bemarke/bemarke.github.io/main/images/img.png)
 Pronto, voce devera ver o play ground com as principais queries dessa tela
-![img_1.png](https://github.com/bemarke/bemarke.github.io/blob/main/images/img_1.png).
+![img_1.png](https://raw.githubusercontent.com/bemarke/bemarke.github.io/main/images/img_1.png).
 
 # Autenticação
 
