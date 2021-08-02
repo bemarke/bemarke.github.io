@@ -62,7 +62,6 @@ Nome da mutation, saveProducts, ele espera como parâmetro um `input` product, o
 É simples, um objetivo chamado product, esse objeto é do tipo ProductInput, e no final
 desse ProductInput possui o ponto de exclamação “!” que indica que esse campo é obrigatório. O retorno dessa mutation é um Product, o que você acabou de criar.
 
-Caso tenha ficado alguma dúvida sobre mutation e query, recomendamos que assista o video (). É bem pequenino e acreditamos que ajudará a esclarecer como a nossa API funciona.
 
 _Vamos agora dar uma passada pelas principais entidades do bemarke. Se você ler atentamente cada uma delas, terá uma visão muito mais clara que como as coisas são
 conectadas do nosso lado._
