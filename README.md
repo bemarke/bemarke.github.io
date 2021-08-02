@@ -24,7 +24,7 @@ Para obter essa chave de autenticação, basta acessar o sistema do bemarke, no 
 Podemos testar se o nosso request funciona. Use o comando abaixo no terminal. Lembre de trocar apiKey pela sua respectiva chave.
 
 ```
-curl -H "Authorization: bearer API_KEY" -H "Content-Type: application/json" -X POST -d '{ "query": "{ loggedUser { name }}"}' staging2-api.bemarke.com/graphql
+curl -H "Authorization: bearer API_KEY" -H "Content-Type: application/json" -X POST -d '{ "query": "{ loggedUser { name }}"}' staging-api.bemarke.com/graphql
 ```
 
 Se tudo deu certo, você deverá ver algo parecido como:\
