@@ -971,6 +971,6 @@ transação.
 o pagamento tenha sido feito via aplicativo, via pix ou cartão.
  * As order no status de `ACCEPTED`, foram, aceitas, e logo entraram em processo de entrega.
  * As orders no status de `DISPATCHED`,  são order para entregarem, e esse status indica que a entrega saiu para ser entregada.
- * As order no status de `FINISHED`, encerram o seu ciclo com sucesso, seja retirada, entrega ou consumo.
- * As order no status de `CANCELED`, foram canceladas por algum motivo, seja falta de entregador, cliente muito longe, etc.
- * As order no status de `EXPIRED`, não foram aceitas pelo lojista em tempo hábil.
+ * As orders no status de `FINISHED`, encerram o seu ciclo com sucesso, seja retirada, entrega ou consumo.
+ * As ordesr no status de `CANCELED`, foram canceladas por algum motivo, seja falta de entregador, cliente muito longe, etc.
+ * As orders no status de `EXPIRED`, não foram aceitas pelo lojista em tempo hábil.
