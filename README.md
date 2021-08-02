@@ -19,7 +19,7 @@ Pronto, voce devera ver o play ground com as principais queries dessa tela
 
 O processo de autenticação da nossa API é bem simples. Todos os `requests` realizados na API do bemarke precisam conter uma `apiKey`. Essa apiKey estará vinculada a uma loja já existente no bemarke.
 
-Para obter essa chave de autenticação, basta acessar o sistema do bemarke, no menu lateral esquerdo acessar, Configurações > Integrações > ID.
+Para obter essa chave de autenticação, basta acessar o sistema do bemarke, no menu lateral esquerdo acessar, Configurações > Integrações > ID de integração com PV externo (a impressora precisa estar desativada).
 
 Podemos testar se o nosso request funciona. Use o comando abaixo no terminal. Lembre de trocar apiKey pela sua respectiva chave.
 
